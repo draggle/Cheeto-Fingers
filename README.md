@@ -7,7 +7,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange.svg)
 
 ## 🧐 The Problem
-Have you ever been eating Cheetos, wings, or pizza while watching YouTube, and suddenly a double-unskippable ad appears? You look at your orange-dusted fingertips. You look at your pristine white keyboard. You face a terrible choice: dirty the peripherals, or suffer through the ad.
+Have you ever been eating Cheetos, wings, or pizza while watching YouTube, and suddenly a double-unskippable ad appears? You look at your orange-dusted fingertips. You look at your pristine white mouse. You face a terrible choice: dirty the peripherals, or suffer through the ad.
 
 ## 💡 The Solution
 **Cheeto-Fingers** uses Computer Vision to track your hand in real-time, allowing you to control your mouse cursor, click, and scroll without ever touching a physical device.
