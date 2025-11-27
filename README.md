@@ -23,7 +23,7 @@ Under the hood, this isn't just magic; it's a pipeline of Deep Learning models:
 ## 🎮 Grease-Free Controls
 | Action | Gesture |
 | :--- | :--- |
-| **Move Cursor** | Index Finger Up ☝️ |
+| **Move Cursor** | Open Palm (All Fingers Out) ✋ |
 | **Left Click** | Pinch Index + Thumb 👌 (Green Dot) |
 | **Right Click** | Pinch Ring Finger + Thumb 🤘 (Blue Dot) |
 | **Precision Scroll** | Pinch Middle + Thumb & Drag 🤏 (Red Dot) |
